@@ -1,0 +1,15 @@
+{
+  "name": "nowrun",
+  "version": "1.0.0",
+  "description": "get review",
+  "main": "rssParserNowrunning.js",
+  "scripts": {
+    "test": "node rssParserNowrunning.js"
+  },
+  "author": "anish",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "~1.0.0-rc.2",
+    "xml2js": "~0.4.19"
+  }
+}
